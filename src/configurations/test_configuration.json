@@ -1,0 +1,15 @@
+{
+  "num_of_tiles": 20,
+  "num_of_steps": 20,
+  "agent_locations": [
+    [1, 3],
+    [2, 4],
+    [3, 5],
+    [5, 5]
+  ],
+  "target_location": [15, 15],
+  "type_of_strategy": "Macro",
+  "wall_locations": [
+    [19, 19]
+  ]
+}
