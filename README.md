@@ -1,7 +1,5 @@
 # Meso-control
 Control framework with complexity reduction
-# Master-dissertation
-The work is devoted to clustering in multi-agent systems
 
 ### Install dependencies
 - Use python 3.11
